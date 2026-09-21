@@ -1,0 +1,9 @@
+Python 3.7.5 (tags/v3.7.5:5c02a39a0b, Oct 14 2019, 23:09:19) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: C:\Users\Student\Desktop\dungeon\game.py ==============
+======================
+ ЗАБРОШЕННАЯ КУЗНИЦА 
+======================
+
+>>> 
